@@ -16,6 +16,11 @@ programa {
       se(numero / 4 == 0 e numero != 0){
         soma = soma + numero
       }
+      enquanto(numero != 0 )
+    escreva("A soma dos multiplos de 4 é: \n")
+    escreva(soma)
+    escreva("----------Fim da contagem-----------")
+    
     }
     
 
